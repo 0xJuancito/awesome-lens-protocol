@@ -45,6 +45,10 @@
 - [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
 - [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
 
+### Browser Extentions
+
+- [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
+
 ## Integrations
 
 - [ENS](https://lenster.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
@@ -73,4 +77,5 @@
 - [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
 - [Stats](https://stats.lens.xyz/) - Official stats.
+- [Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App with Lens Protocol, Next.js, and GraphQL.
 
