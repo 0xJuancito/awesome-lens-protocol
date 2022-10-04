@@ -22,13 +22,19 @@
 - [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
 - [Orb](https://orb.ac/) - Best place to network in web3.
 
-### Platforms
+### Social Platforms
 
+- [Clipto](https://github.com/Clipto-Platform/clipto-frontend) - Personalized videos from your favorite Creators.
 - [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
+- [Superfun](https://lens.superfun.social/) - A social app for Meme artists to get rewarded for their super fun content.
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
+
+### DeFi
+
+- [Alps Finance](https://alps.finance/) - Decentralized social trading network.
 
 ### Tools
 
@@ -64,6 +70,7 @@
 
 ### Other resources
 
+- [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
 - [Stats](https://stats.lens.xyz/) - Official stats.
 
