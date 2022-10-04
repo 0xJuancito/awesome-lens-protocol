@@ -14,3 +14,27 @@
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 </div>
+
+## Projects
+
+### Mobile Apps
+
+- [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
+
+### Social Networks
+
+- [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
+- [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
+
+### Tools
+
+- [Inlens](https://github.com/0xJuancito/who-is-in-lens-web) - Find your friends from Twitter.
+- [Lensfrens](https://www.lensfrens.xyz/) - Profiles based on your web3 footprint.
+
+## Resources
+
+- [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
+- [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
+- [Lens Docs](https://docs.lens.xyz/) - Official documentation.
+- [Modules](https://github.com/lens-protocol/modules) - Repository for adding Lens Protocol collect, follow and reference modules.
+- [Stats](https://stats.lens.xyz/) - Official stats.
