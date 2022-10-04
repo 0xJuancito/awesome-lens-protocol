@@ -22,11 +22,12 @@
 - [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
 - [Orb](https://orb.ac/) - Best place to network in web3.
 
-### Social Networks
+### Platforms
 
 - [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
+- [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 
 ### Tools
@@ -36,6 +37,7 @@
 - [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
 - [Reflect](https://reflect.withlens.app/) - Reflect your Lens posts to Twitter.
 - [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
+- [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
 
 ## Integrations
 
@@ -45,9 +47,23 @@
 
 ## Resources
 
-- [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
+### Libraries & Build Tools
+
+- [API Docs](https://docs.lens.xyz/) - Official Lens API documentation.
+- [Brand Kit](https://github.com/lens-protocol/brand-kit) - Branding assets.
 - [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
+- [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
+- [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
+- [Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
+- [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
+
+### Examples
+
+- [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
+- [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) - Example of a basic front end.
+
+### Other resources
+
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
-- [Lens Docs](https://docs.lens.xyz/) - Official documentation.
-- [Modules](https://github.com/lens-protocol/modules) - Repository for adding Lens Protocol collect, follow and reference modules.
 - [Stats](https://stats.lens.xyz/) - Official stats.
+
