@@ -4,10 +4,7 @@
   <p align="center">
     <a href="#buildstatus">
       <img alt="build status badge" src="https://github.com/0xJuancito/awesome-lens-protocol/workflows/Build/badge.svg">
-    </a>
-    <a href="https://github.com/0xJuancito/awesome-lens-protocol/graphs/contributors">
-      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/0xJuancito/awesome-lens-protocol">
-    </a>
+    </a>    
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
