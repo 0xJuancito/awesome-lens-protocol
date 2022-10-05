@@ -87,3 +87,6 @@
 - [Stats](https://stats.lens.xyz/) - Official stats.
 - [Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App with Lens Protocol, Next.js, and GraphQL.
 
+## LICENSE
+
+[MIT](LICENSE)
