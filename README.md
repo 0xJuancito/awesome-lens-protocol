@@ -24,6 +24,7 @@
 
 - [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
 - [Orb](https://orb.ac/) - Best place to network in web3.
+- [Onboard](https://twitter.com/0xOnboard) - The social media you deserve
 
 ### Social Platforms
 
