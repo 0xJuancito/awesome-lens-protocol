@@ -48,6 +48,7 @@
 
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
 - [Inlens](https://github.com/0xJuancito/who-is-in-lens-web) - Find your friends from Twitter.
+- [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lensfrens](https://www.lensfrens.xyz/) - Profiles based on your web3 footprint.
 - [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
 - [Reflect](https://reflect.withlens.app/) - Reflect your Lens posts to Twitter.
