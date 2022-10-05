@@ -39,6 +39,10 @@
 
 - [Alps Finance](https://alps.finance/) - Decentralized social trading network.
 
+### Marketplace
+
+- [LensPort](https://lensport.io/) - Discover, collect, and sell Posts.
+
 ### Tools
 
 - [Inlens](https://github.com/0xJuancito/who-is-in-lens-web) - Find your friends from Twitter.
