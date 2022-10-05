@@ -71,6 +71,7 @@
 - [API Docs](https://docs.lens.xyz/) - Official Lens API documentation.
 - [Brand Kit](https://github.com/lens-protocol/brand-kit) - Branding assets.
 - [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
+- [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
 - [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
 - [Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
