@@ -55,6 +55,7 @@
 
 ### Browser Extentions
 
+- [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
 
 ## Integrations
