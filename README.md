@@ -51,6 +51,7 @@
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lensfrens](https://www.lensfrens.xyz/) - Profiles based on your web3 footprint.
 - [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
+- [Meetvers](https://app.meetvers.io/) - Find friends with similar Web3 footprint.
 - [Reflect](https://reflect.withlens.app/) - Reflect your Lens posts to Twitter.
 - [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
 - [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
