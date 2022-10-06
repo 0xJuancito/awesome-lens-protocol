@@ -89,11 +89,15 @@
 - [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
 - [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) - Example of a basic front end.
 
-### Other resources
+### Other Resources
 
 - [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
 - [Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App with Lens Protocol, Next.js, and GraphQL.
+
+### Other Awesome Lists
+
+- [Lens useful links and resources](https://nelsonrodmar.notion.site/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044) - by [NelsonRodMar](https://lenster.xyz/u/nelsonrodmar.lens)
 
 ## LICENSE
 
