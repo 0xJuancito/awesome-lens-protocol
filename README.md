@@ -47,7 +47,7 @@
 ### Tools
 
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
-- [Inlens](https://github.com/0xJuancito/who-is-in-lens-web) - Find your friends from Twitter.
+- [Inlens](https://github.com/0xJuancito/inlens) - Find your friends from Twitter.
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lensfrens](https://www.lensfrens.xyz/) - Profiles based on your web3 footprint.
 - [Meetvers](https://app.meetvers.io/) - Find friends with similar Web3 footprint.
