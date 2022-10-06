@@ -50,17 +50,20 @@
 - [Inlens](https://github.com/0xJuancito/who-is-in-lens-web) - Find your friends from Twitter.
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lensfrens](https://www.lensfrens.xyz/) - Profiles based on your web3 footprint.
-- [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
 - [Meetvers](https://app.meetvers.io/) - Find friends with similar Web3 footprint.
 - [Reflect](https://reflect.withlens.app/) - Reflect your Lens posts to Twitter.
 - [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
 - [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
-- [Lenstats](https://github.com/0xadweale/lens-stats) - Find stats about your community and organize giveaways.
 
 ### Browser Extentions
 
 - [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
+
+### Stats
+- [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
+- [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
+- [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
 
 ## Integrations
 
@@ -90,7 +93,6 @@
 
 - [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
-- [Stats](https://stats.lens.xyz/) - Official stats.
 - [Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App with Lens Protocol, Next.js, and GraphQL.
 
 ## LICENSE
