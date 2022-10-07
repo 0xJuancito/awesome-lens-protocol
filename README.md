@@ -68,6 +68,7 @@
 ## Integrations
 
 - [ENS](https://lenster.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
+- [Proof of Humanity](https://docs.lens.xyz/docs/on-chain-identity#proofofhumanity) - Sybil-resistant registry of Humans.
 - [Push Protocol](https://twitter.com/pushprotocol/status/1576959192761438209) - The communication protocol of web3.
 - [Zerion](https://zerion.io/blog/zerion-integrates-lens-protocols-web3-social-graph/) - Smart, Social Web3 Wallet.
 
