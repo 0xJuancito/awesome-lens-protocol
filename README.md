@@ -62,6 +62,7 @@
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
 
 ### Stats
+- [Dune](https://dune.com/niftytable/Lens) - Lens stats in Dune.
 - [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
 - [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
 - [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
