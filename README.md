@@ -33,7 +33,6 @@
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
-- [Superfun](https://lens.superfun.social/) - A social app for Meme artists to get rewarded for their super fun content.
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 
 ### DeFi
@@ -60,6 +59,11 @@
 
 - [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
+
+### Memes
+
+- [re-meme](https://github.com/WeAreNewt/re-meme) - The on-chain meme remixer.
+- [Superfun](https://lens.superfun.social/) - A social app for Meme artists to get rewarded for their super fun content.
 
 ## Integrations
 
