@@ -23,7 +23,7 @@
 ### Mobile Apps
 
 - [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
-- [Onboard](https://twitter.com/0xOnboard) - The social media you deserve
+- [Onboard](https://twitter.com/Onboard_HQ) - The social media you deserve
 - [Orb](https://orb.ac/) - Best place to network in web3.
 
 ### Social Platforms
