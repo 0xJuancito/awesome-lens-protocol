@@ -61,13 +61,6 @@
 - [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
 
-### Stats
-- [Dune - Lens](https://dune.com/niftytable/Lens) - Lens dashboard in Dune.
-- [Dune - Lens and Lenster](https://dune.com/gm365/lens) - Lens and Lenster dashboard in Lens.
-- [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
-- [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
-- [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
-
 ## Integrations
 
 - [ENS](https://lenster.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
@@ -92,6 +85,13 @@
 
 - [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
 - [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) - Example of a basic front end.
+
+### Stats
+- [Dune - Lens](https://dune.com/niftytable/Lens) - Lens dashboard in Dune.
+- [Dune - Lens and Lenster](https://dune.com/gm365/lens) - Lens and Lenster dashboard in Lens.
+- [Lens Leaderboards](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
+- [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
+- [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
 
 ### Other Resources
 
