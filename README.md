@@ -48,7 +48,7 @@
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
 - [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) - Encrypt messages for a Lens Profile or their Followers.
 - [Inlens](https://github.com/0xJuancito/inlens) - Find your friends from Twitter.
-- [Lensalerts](https://lensalert.me) - Lens notifications in Telegram.
+- [Lensalert](https://lensalert.me) - Lens notifications in Telegram.
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lensfrens](https://www.lensfrens.xyz/) - Profiles based on your web3 footprint.
 - [Meetvers](https://app.meetvers.io/) - Find friends with similar Web3 footprint.
