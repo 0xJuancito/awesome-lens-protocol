@@ -43,6 +43,10 @@
 
 - [LensPort](https://lensport.io/) - Discover, collect, and sell Posts.
 
+### Feeds
+
+- [Lensta](https://www.lensta.xyz/) - Image feed.
+
 ### Tools
 
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
