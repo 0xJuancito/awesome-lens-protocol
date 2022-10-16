@@ -77,7 +77,7 @@
 - [Push Protocol](https://twitter.com/pushprotocol/status/1576959192761438209) - The communication protocol of web3.
 - [Zerion](https://zerion.io/blog/zerion-integrates-lens-protocols-web3-social-graph/) - Smart, Social Web3 Wallet.
 
-## Resources
+## Development
 
 ### Libraries & Build Tools
 
@@ -94,6 +94,8 @@
 
 - [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
 - [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) - Example of a basic front end.
+
+## Resources
 
 ### Stats
 - [Dune - Lens](https://dune.com/niftytable/Lens) - Lens dashboard in Dune.
