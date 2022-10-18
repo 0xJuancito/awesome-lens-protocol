@@ -34,6 +34,7 @@
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
+- [Yup](https://yup.io/) - Social network for Curators.
 
 ### DeFi
 
