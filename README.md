@@ -102,7 +102,7 @@
 ### Stats
 - [Dune - Lens](https://dune.com/niftytable/Lens) - Lens dashboard in Dune.
 - [Dune - Lens and Lenster](https://dune.com/gm365/lens) - Lens and Lenster dashboard in Lens.
-- [Leaderboard .lens](https://www.lensanalytics.xyz/) - The most followed Lens accounts on Lenster.
+- [Lens Analytics](https://github.com/chiragbadhe/lensanalytics) - Metrics On Lens Ecosystem.
 - [Leaderboards WithLens](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
 - [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
 - [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
