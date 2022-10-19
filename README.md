@@ -33,6 +33,7 @@
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
+- [Share](https://theshr.xyz/) - Publish, Read, Connect and Collect the Best Books of Your Favorite Authors.
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 - [Yup](https://app.yup.io/feed/lens) - Social network for Curators.
 
