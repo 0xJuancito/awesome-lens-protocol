@@ -13,7 +13,7 @@
     </a>
   </p>
 
-  <p align="center">A curated list of awesome <a href="https://lens.xyz/">Lens Protocol</a> projects, resources, libraries, tools and more.</p>
+  <p align="center">A curated list of awesome <a href="https://lens.xyz/">Lens Protocol</a> projects, resources, libraries, and tools on GitHub.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 </div>
