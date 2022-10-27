@@ -90,8 +90,11 @@
 - [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
 - [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
-- [Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
+
+### Modules
+- [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
+- [Poll Module](https://github.com/allemanfredi/lens-protocol-poll-module) - Anonymous poll voting module.
 
 ### Examples
 
