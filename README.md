@@ -94,6 +94,7 @@
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
 - [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
+- [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
 
 ### Modules
 - [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
