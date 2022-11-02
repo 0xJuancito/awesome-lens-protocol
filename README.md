@@ -74,6 +74,7 @@
 
 - [re-meme](https://github.com/WeAreNewt/re-meme) - The on-chain meme remixer.
 - [Superfun](https://lens.superfun.social/) - A social app for Meme artists to get rewarded for their super fun content.
+- [memester](https://memester.xyz/) - The NFT Meme Platform. Create memes and turn them into NFTs. Participate in meme competitions and win prizes.
 
 ## Integrations
 
