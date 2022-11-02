@@ -15,6 +15,9 @@
 
   <p align="center">A curated list of awesome <a href="https://lens.xyz/">Lens Protocol</a> projects, resources, libraries, and tools on GitHub.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
+  <p align="center">This list is now focused on resources to build on Lens, and projects with a GitHub repository to serve as guide.</p>
+    <p align="center">For an exhaustive list of apps please check the official <a href="https://www.lens.xyz/apps">Lensverse Directory</a>.</p>
+
 
 </div>
 
