@@ -129,3 +129,7 @@
 ## LICENSE
 
 [MIT](LICENSE)
+
+---
+
+➕ Always verify the authenticity of the links
