@@ -93,6 +93,7 @@
 - [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
 - [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
+- [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
 - [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
 
