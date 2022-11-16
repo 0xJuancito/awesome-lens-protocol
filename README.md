@@ -92,10 +92,11 @@
 - [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
 - [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
+- [lens-token-gated-posts](https://github.com/jaencarrodine/lens-token-gated-posts) - https://github.com/jaencarrodine/lens-token-gated-posts
+- [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
 - [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
 - [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
-- [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
 
 ### Modules
 - [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
