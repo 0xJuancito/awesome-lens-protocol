@@ -47,6 +47,10 @@
 
 - [LensPort](https://lensport.io/) - Discover, collect, and sell Posts.
 
+### Metaverse
+
+- [Wired](https://github.com/wired-labs/wired) - An open and decentralized web-based metaverse platform.
+
 ### Feeds
 
 - [Lensta](https://www.lensta.xyz/) - Image feed.
