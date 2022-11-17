@@ -55,6 +55,10 @@
 
 - [Lensta](https://www.lensta.xyz/) - Image feed.
 
+### Tips
+
+- [SendACoin](https://github.com/SendACoin/sendacoin.to) - Share your Lens profile, collect Payments, tips.
+
 ### Tools
 
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
