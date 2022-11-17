@@ -98,6 +98,7 @@
 - [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
 - [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
+- [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
 
 ### Modules
 - [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
