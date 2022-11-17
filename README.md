@@ -99,10 +99,13 @@
 - [lens-protocol/sdk-gated](https://www.npmjs.com/package/@lens-protocol/sdk-gated) - Gated encrypting and decrypting publication metadata compatible with the Lens API
 - [lens-token-gated-posts](https://github.com/jaencarrodine/lens-token-gated-posts) - Token gated Lens posts example.
 - [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
-- [Lens Kit](https://github.com/daoleno/lenskit) - Lens Protocol Kit.
 - [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
 - [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
+
+### Starter Kit
+- [daoleno/lenskit](https://github.com/daoleno/lenskit) - Starter kit by daoleno.
+- [thirdweb-example/lens](https://github.com/thirdweb-example/lens) - Starter kit for using Lens Protocol with the thirdweb SDK.
 
 ### Modules
 - [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
