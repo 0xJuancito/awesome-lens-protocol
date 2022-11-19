@@ -119,6 +119,7 @@
 
 - [API examples](https://github.com/lens-protocol/api-examples) - Official API examples.
 - [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) - Example of a basic front end.
+- [lens-create-publication-example](https://github.com/dabit3/lens-create-publication-example) - An example project showing how to create a publication using withSig and typed data.
 
 ## Resources
 
