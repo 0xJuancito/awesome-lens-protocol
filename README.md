@@ -131,12 +131,14 @@
 - [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
 - [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
 
+### Tutorials
+- [Alchemy Lens Client Tutorial](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol) - Alchemy University tutorial for building a Lens frontend.
+- [Full Stack Web3 with Lens Protocol, Next.js, and GraphQL](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App by Nader Dabit.
+
 ### Other Resources
 
-- [Alchemy Lens Client Tutorial](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol) - Alchemy University tutorial for building a Lens frontend.
 - [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
-- [Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App with Lens Protocol, Next.js, and GraphQL.
 
 ### Other Awesome Lists
 
