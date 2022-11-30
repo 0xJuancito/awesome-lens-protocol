@@ -72,7 +72,6 @@
 - [Reflect](https://reflect.withlens.app/) - Reflect your Lens posts to Twitter.
 - [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
 - [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
-- [Lens Apps Stats](https://lens.decentree.com/) - Statistics for social media apps on the Lens Protocol.
 
 ### Browser Extentions
 
@@ -130,6 +129,7 @@
 - [Lens Analytics](https://github.com/chiragbadhe/lensanalytics) - Metrics On Lens Ecosystem.
 - [Leaderboards WithLens](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
 - [Lenstats](https://github.com/0xadewale/lens-stats) - Find stats about your community and organize giveaways.
+- [Lens Apps Stats](https://lens.decentree.com/) - Statistics for social media apps on the Lens Protocol.
 - [Official Stats](https://stats.lens.xyz/) - Official Lens stats.
 
 ### Tutorials
