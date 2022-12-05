@@ -105,6 +105,7 @@
 - [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
 - [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
+- [ticklens](https://github.com/ArturVargas/ticklens.js) - A JavaScript SDK for create your own Ticket solution with Lens Protocol.
 - [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
 
 ### Starter Kit
