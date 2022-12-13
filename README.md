@@ -24,6 +24,7 @@
 
 ### Mobile Apps
 
+- [Fanstastic](https://fanstastic.app/) - Decentralized social media for content creators.
 - [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
 - [Onboard](https://twitter.com/Onboard_HQ) - The social media you deserve
 - [Orb](https://orb.ac/) - Best place to network in web3.
