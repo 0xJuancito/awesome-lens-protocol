@@ -124,6 +124,7 @@
 - [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) - Example of a basic front end.
 - [Lens Blog](https://github.com/PatrickAlphaC/lens-blog) - A minimal example of using Lens Protocol to build a blog
 - [lens-create-publication-example](https://github.com/dabit3/lens-create-publication-example) - An example project showing how to create a publication using withSig and typed data.
+- [lens-gated-publications](https://github.com/dabit3/lens-gated-publications) - Example application implementing gated Lens posts, encryption, and decryption.
 
 ## Resources
 
