@@ -38,7 +38,7 @@
 - [ticklens](https://github.com/ArturVargas/ticklens.js) - A JavaScript SDK for create your own Ticket solution with Lens Protocol.
 - [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
 
-### Starter Kit
+### Starter Kits
 - [daoleno/lenskit](https://github.com/daoleno/lenskit) - Starter kit by daoleno.
 - [thirdweb-example/lens](https://github.com/thirdweb-example/lens) - Starter kit for using Lens Protocol with the thirdweb SDK.
 
