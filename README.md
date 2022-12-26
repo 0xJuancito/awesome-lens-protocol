@@ -58,6 +58,7 @@
 ### Videos
 
 - [Full Stack Web3 with Lens Protocol, Next.js, and GraphQL](https://www.youtube.com/watch?v=LcxOdWWL8xs) - Building a Social Media App by Nader Dabit.
+- [The ULTIMATE Guide 🌿 // Build A Decentralized Web3 Social Media App!](https://www.youtube.com/watch?v=e1mPmDRUUBc) - 5 hours tutorial by Jarrod Watts.
 
 ### Examples
 
