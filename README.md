@@ -19,31 +19,9 @@
 
 </div>
 
-## Open Source Projects Built on Lens
-
-> Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
-
-- [Clipto](https://github.com/Clipto-Platform/clipto-frontend) - Personalized videos from your favorite Creators.
-- [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
-- [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) - Encrypt messages for a Lens Profile or their Followers.
-- [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
-- [Inlens](https://github.com/0xJuancito/inlens) - Find your friends from Twitter.
-- [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
-- [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
-- [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
-- [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
-- [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
-- [Rally](https://github.com/rallydotfm/rally) - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
-- [re-meme](https://github.com/WeAreNewt/re-meme) - The on-chain meme remixer.
-- [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
-- [SendACoin](https://github.com/SendACoin/sendacoin.to) - Share your Lens profile, collect Payments, tips.
-- [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
-- [Wired](https://github.com/wired-labs/wired) - An open and decentralized web-based metaverse platform.
-- [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
-
 ## Development
 
-### Libraries & Build Tools
+### Libraries & Tools
 
 - [API Docs](https://docs.lens.xyz/) - Official Lens API documentation.
 - [Lens SDK](https://github.com/lens-protocol/lens-sdk) - Official Lens SDK
@@ -96,7 +74,29 @@
 - [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
 
-### Other projects built on Lens
+## Open Source Projects Built on Lens
+
+> Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
+
+- [Clipto](https://github.com/Clipto-Platform/clipto-frontend) - Personalized videos from your favorite Creators.
+- [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
+- [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) - Encrypt messages for a Lens Profile or their Followers.
+- [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
+- [Inlens](https://github.com/0xJuancito/inlens) - Find your friends from Twitter.
+- [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
+- [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
+- [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
+- [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
+- [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
+- [Rally](https://github.com/rallydotfm/rally) - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
+- [re-meme](https://github.com/WeAreNewt/re-meme) - The on-chain meme remixer.
+- [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
+- [SendACoin](https://github.com/SendACoin/sendacoin.to) - Share your Lens profile, collect Payments, tips.
+- [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
+- [Wired](https://github.com/wired-labs/wired) - An open and decentralized web-based metaverse platform.
+- [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
+
+## Other projects built on Lens
 
 > For an exhaustive list of apps please check the official <a href="https://www.lens.xyz/apps">Lensverse Directory</a>
 
@@ -117,14 +117,14 @@
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 - [Yup](https://app.yup.io/feed/lens) - Social network for Curators.
 
-### Projects Integrating Lens
+## Projects Integrating Lens
 
 - [ENS](https://lenster.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
 - [Proof of Humanity](https://docs.lens.xyz/docs/on-chain-identity#proofofhumanity) - Sybil-resistant registry of Humans.
 - [Push Protocol](https://twitter.com/pushprotocol/status/1576959192761438209) - The communication protocol of web3.
 - [Zerion](https://zerion.io/blog/zerion-integrates-lens-protocols-web3-social-graph/) - Smart, Social Web3 Wallet.
 
-### Other Awesome Lists
+## Other Awesome Lists
 
 - [Lens useful links and resources](https://nelsonrodmar.notion.site/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044) - by [NelsonRodMar](https://lenster.xyz/u/nelsonrodmar.lens)
 
