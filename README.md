@@ -74,7 +74,9 @@
 - [Claim Profile](https://claim.lens.xyz/) - Claim your handle.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
 
-## Open Source Projects Built on Lens
+## Projects
+
+### Open Source
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
@@ -96,7 +98,7 @@
 - [Wired](https://github.com/wired-labs/wired) - An open and decentralized web-based metaverse platform.
 - [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
 
-## Other projects built on Lens
+### More Projects Built on Lens
 
 > For an exhaustive list of apps please check the official <a href="https://www.lens.xyz/apps">Lensverse Directory</a>
 
@@ -117,7 +119,7 @@
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 - [Yup](https://app.yup.io/feed/lens) - Social network for Curators.
 
-## Projects Integrating Lens
+### Integrations
 
 - [ENS](https://lenster.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
 - [Proof of Humanity](https://docs.lens.xyz/docs/on-chain-identity#proofofhumanity) - Sybil-resistant registry of Humans.
