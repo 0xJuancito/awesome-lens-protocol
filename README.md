@@ -27,7 +27,7 @@
 
 ### Libraries & Tools
 
-- [Lens SDK](https://github.com/lens-protocol/lens-sdk) - Official Lens SDK
+- [Lens SDK](https://github.com/lens-protocol/lens-sdk) - Official Lens SDK ⭐️
 - [Brand Kit](https://github.com/lens-protocol/brand-kit) - Branding assets.
 - [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
 - [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
