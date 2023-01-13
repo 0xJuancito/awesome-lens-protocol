@@ -54,6 +54,7 @@
 ### Blog Posts
 
 - [Alchemy Lens Client Tutorial](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol) - Alchemy University tutorial for building a Lens frontend.
+- [Getting Started With Lens as a Frontend Dev](https://ankr.hashnode.dev/getting-started-with-lens-protocol-as-a-frontend-developer) - How To Setup A Login And A Feed Of Recommended Posts With Lens And ReactJs.
 
 ### Videos
 
