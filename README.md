@@ -25,6 +25,13 @@
 
 - [API Docs](https://docs.lens.xyz/) - Official Lens API documentation.
 
+### Contracts
+
+- Polygon - Lens Hub Proxy: [0xdb46d1dc155634fbc732f92e853b10b288ad5a1d](https://polygonscan.com/address/0xdb46d1dc155634fbc732f92e853b10b288ad5a1d)
+- Mumbai - Lens Hub Proxy: [0x60Ae865ee4C725cd04353b5AAb364553f56ceF82](https://mumbai.polygonscan.com/address/0x60Ae865ee4C725cd04353b5AAb364553f56ceF82)
+- Sandbox - Lens Hub Proxy: [0x7582177F9E536aB0b6c721e11f383C326F2Ad1D5](https://mumbai.polygonscan.com/address/0x7582177F9E536aB0b6c721e11f383C326F2Ad1D5)
+- Other contracts on the [Lens modules repository](https://github.com/lens-protocol/modules/blob/master/addresses.json)
+
 ### Libraries & Tools
 
 - [Lens SDK](https://github.com/lens-protocol/lens-sdk) - Official Lens SDK ⭐️
