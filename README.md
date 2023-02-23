@@ -105,7 +105,6 @@
 
 > For an exhaustive list of apps please check the official <a href="https://www.lens.xyz/apps">Lensverse Directory</a>
 
-- [Alps Finance](https://alps.finance/) - Decentralized social trading network.
 - [CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0) - A new era for open, decentralized content moderation in Web3.
 - [Fanstastic](https://fanstastic.app/) - Decentralized social media for content creators.
 - [Lensalert](https://lensalert.me) - Lens notifications in Telegram.
