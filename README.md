@@ -128,6 +128,7 @@
 - [Superfun](https://lens.superfun.social/) - A social app for Meme artists to get rewarded for their super fun content.
 - [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 - [Yup](https://app.yup.io/feed/lens) - Social network for Curators.
+- [LensPlay](https://www.lensplay.xyz) - Mobile first video-sharing application.
 
 ### Integrations
 
