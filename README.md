@@ -83,6 +83,7 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
+- [Chainblog](https://github.com/jarrodwatts/chainblog) - The decentralized blogging platform
 - [Clipto](https://github.com/Clipto-Platform/clipto-frontend) - Personalized videos from your favorite Creators.
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
 - [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) - Encrypt messages for a Lens Profile or their Followers.
