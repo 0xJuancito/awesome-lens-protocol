@@ -91,6 +91,7 @@
 - [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) - Encrypt messages for a Lens Profile or their Followers.
 - [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
 - [Inlens](https://github.com/0xJuancito/inlens) - Find your friends from Twitter.
+- [InterplanetaryFonts](https://github.com/interplanetaryfonts/interplanetaryfonts.xyz) - A decentralized NFT marketplace for creators and collectors of Fonts.
 - [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
