@@ -95,6 +95,7 @@
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
+- [Pinsta](https://github.com/jsonpreet/Pinsta) - Decentralized Image & Video Sharing service.
 - [Rally](https://github.com/rallydotfm/rally) - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
 - [re-meme](https://github.com/WeAreNewt/re-meme) - The on-chain meme remixer.
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
