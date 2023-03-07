@@ -43,6 +43,7 @@
 - [lens-protocol/sdk-gated](https://www.npmjs.com/package/@lens-protocol/sdk-gated) - Gated encrypting and decrypting publication metadata compatible with the Lens API
 - [lens-token-gated-posts](https://github.com/jaencarrodine/lens-token-gated-posts) - Token gated Lens posts example.
 - [lens-use](https://github.com/memester-xyz/lens-use) - React hooks for Lens.
+- [LensPy](https://github.com/TobiasLoader/LensPy) - Python library for the Lens Protocol
 - [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) - Lens UI Kit for React Native
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
@@ -101,6 +102,7 @@
 - [Reroot](https://github.com/stuntzii/Reroot) - A browser extension for Twitter that lets you also post to Lens.
 - [SendACoin](https://github.com/SendACoin/sendacoin.to) - Share your Lens profile, collect Payments, tips.
 - [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
+- [twitter-clone-LensProtocol](https://github.com/Merdi-kim/twitter-clone-LensProtocol) - Decentralized twitter clone built with Lens Protocol and Web3.storage
 - [Wired](https://github.com/wired-labs/wired) - An open and decentralized web-based metaverse platform.
 - [World ID Lens](https://github.com/worldcoin/world-id-lens) - Human verification for Lens Protocol with World ID.
 
