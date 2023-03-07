@@ -53,6 +53,7 @@
 ### Starter Kits
 - [daoleno/lenskit](https://github.com/daoleno/lenskit) - Starter kit by daoleno.
 - [thirdweb-example/lens](https://github.com/thirdweb-example/lens) - Starter kit for using Lens Protocol with the thirdweb SDK.
+- [lens-xmtp-push-expo-typescript-template](https://github.com/desoul-labs/lens-xmtp-push-expo-typescript-template) - An Expo template for building Web3 social apps integrated with Lens Protocol, XMTP, and Push Protocol(EPNS)
 
 ### Modules
 - [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
