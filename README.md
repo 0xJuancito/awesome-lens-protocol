@@ -95,6 +95,7 @@
 - [InterplanetaryFonts](https://github.com/interplanetaryfonts/interplanetaryfonts.xyz) - A decentralized NFT marketplace for creators and collectors of Fonts.
 - [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
+- [Lenshare](https://github.com/Eversmile12/lenshare) - Bridge your tweets to LensProtocol.
 - [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
