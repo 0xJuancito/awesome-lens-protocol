@@ -47,6 +47,7 @@
 - [react-lens-share-button](https://www.npmjs.com/package/@infinity-keys/react-lens-share-button) - A customizable, React button component for sharing to Lens.
 - [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) - Lens UI Kit for React Native
 - [Subgraph](https://github.com/protofire/lens-protocol-subgraph) - The Graph subgraph.
+- [Talk-To-Lens](https://github.com/fabriguespe/Talk-To-Lens) - Plugin for querying lens database with natural language.
 - [ticklens](https://github.com/ArturVargas/ticklens.js) - A JavaScript SDK for create your own Ticket solution with Lens Protocol.
 - [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
 
