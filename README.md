@@ -50,6 +50,7 @@
 - [Talk-To-Lens](https://github.com/fabriguespe/Talk-To-Lens) - Plugin for querying lens database with natural language.
 - [ticklens](https://github.com/ArturVargas/ticklens.js) - A JavaScript SDK for create your own Ticket solution with Lens Protocol.
 - [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
+- [worldcoin-on-lens](https://github.com/AdamSchinzel/worldcoin-on-lens) - Find out which people have World ID verified on Lens.
 
 ### Starter Kits
 - [daoleno/lenskit](https://github.com/daoleno/lenskit) - Starter kit by daoleno.
