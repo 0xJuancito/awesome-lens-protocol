@@ -37,7 +37,6 @@
 - [Lens SDK](https://github.com/lens-protocol/lens-sdk) - Official Lens SDK ⭐️
 - [Brand Kit](https://github.com/lens-protocol/brand-kit) - Branding assets.
 - [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
-- [golens](https://github.com/go-lens/golens) - Go wrapper for Lens Protocol GraphQL queries
 - [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
 - [lens-protocol/sdk-gated](https://www.npmjs.com/package/@lens-protocol/sdk-gated) - Gated encrypting and decrypting publication metadata compatible with the Lens API
@@ -137,10 +136,8 @@
 - [Phaver](https://phaver.com/) - Share-to-earn decentralized social platform.
 - [Onboard](https://twitter.com/Onboard_HQ) - The social media you deserve
 - [Orb](https://orb.ac/) - Best place to network in web3.
-- [Reflect](https://reflect.withlens.app/) - Reflect your Lens posts to Twitter.
 - [Share](https://theshr.xyz/) - Publish, Read, Connect and Collect the Best Books of Your Favorite Authors.
 - [Superfun](https://lens.superfun.social/) - A social app for Meme artists to get rewarded for their super fun content.
-- [TeaParty](https://app.teaparty.life/) - Social-&-Earn (S&E) protocol.
 - [Yup](https://app.yup.io/feed/lens) - Social network for Curators.
 - [LensPlay](https://www.lensplay.xyz) - Mobile first video-sharing application.
 
