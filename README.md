@@ -59,6 +59,16 @@
 - [Lens Modules](https://github.com/lens-protocol/modules) - Repository for adding collect, follow and reference modules.
 - [Poll Module](https://github.com/allemanfredi/lens-protocol-poll-module) - Anonymous poll voting module.
 
+### Momoka
+
+> Momoka refers to an Optimistic L3 - a hybrid by taking best from both - Optimistic Rollups and L3 technologies
+
+- [Momoka](https://github.com/lens-protocol/momoka) - Open source code showing how you can verify the DA claims are true
+  - [Node client](https://github.com/lens-protocol/momoka/tree/master/momoka-node)
+  - [Rust client](https://github.com/lens-protocol/momoka/tree/master/momoka-rs)
+- [Momoka Explorer](https://github.com/lens-protocol/momoka-explorer) - DA explorer for Lens
+- [Momoka Explorer Web](https://momoka.lens.xyz/)
+
 ## Learn
 
 ### Blog Posts
