@@ -38,6 +38,7 @@
 - [Brand Kit](https://github.com/lens-protocol/brand-kit) - Branding assets.
 - [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) - Lens Protocol contracts.
 - [Greenhouse](https://github.com/dsimmons/greenhouse) - Grow and spread your web3 roots.
+- [Lens Protocol Explorer](https://lenscan.io/) - Explore the interesting events happening on the Lens Protocol.
 - [lens.js](https://github.com/suhailkakar/lens.js) - JavaScript SDK.
 - [lens-protocol/sdk-gated](https://www.npmjs.com/package/@lens-protocol/sdk-gated) - Gated encrypting and decrypting publication metadata compatible with the Lens API
 - [lens-token-gated-posts](https://github.com/jaencarrodine/lens-token-gated-posts) - Token gated Lens posts example.
