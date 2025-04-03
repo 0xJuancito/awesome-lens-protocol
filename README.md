@@ -110,7 +110,7 @@
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lenshare](https://github.com/Eversmile12/lenshare) - Bridge your tweets to LensProtocol.
 - [LensShareApp](https://github.com/nikomatt69/LensShareApp) - A decentralised video sharing social platform built on Lens Protocol.
-- [Lenster](https://github.com/lensterxyz/lenster) - Decentralized, and permissionless social media app.
+- [Hey](https://github.com/heyverse/hey) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
 - [Pingpad](https://github.com/pingpad-io/ping) - Minimalist microblogging platform.
@@ -146,7 +146,7 @@
 
 ### Integrations
 
-- [ENS](https://lenster.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
+- [ENS](https://hey.xyz/posts/0x01-0x4e) - Decentralised naming for wallets, websites, & more.
 - [Proof of Humanity](https://docs.lens.xyz/docs/on-chain-identity#proofofhumanity) - Sybil-resistant registry of Humans.
 - [Push Protocol](https://twitter.com/pushprotocol/status/1576959192761438209) - The communication protocol of web3.
 - [Zerion](https://zerion.io/blog/zerion-integrates-lens-protocols-web3-social-graph/) - Smart, Social Web3 Wallet.
@@ -154,7 +154,7 @@
 
 ## Stats & Dashboards
 - [Dune - Lens](https://dune.com/niftytable/Lens) - Lens dashboard in Dune.
-- [Dune - Lens and Lenster](https://dune.com/gm365/lens) - Lens and Lenster dashboard in Lens.
+- [Dune - Lens and Hey](https://dune.com/gm365/lens) - Lens and Hey dashboard in Lens.
 - [Lens Analytics by addresszero](https://github.com/addresszero/lensanalytics) - Lens Protocol Explorer 📈🌿
 - [Lens Analytics by chiragbadhe](https://github.com/chiragbadhe/lensanalytics) - Metrics On Lens Ecosystem.
 - [Leaderboards WithLens](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
@@ -169,7 +169,7 @@
 
 ## Other Awesome Lists
 
-- [Lens useful links and resources](https://nelsonrodmar.notion.site/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044) - by [NelsonRodMar](https://lenster.xyz/u/nelsonrodmar.lens)
+- [Lens useful links and resources](https://nelsonrodmar.notion.site/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044) - by [NelsonRodMar](https://hey.xyz/u/nelsonrodmar)
 
 ## LICENSE
 
