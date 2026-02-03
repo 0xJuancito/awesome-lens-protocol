@@ -154,7 +154,7 @@
 
 ## Stats & Dashboards
 - [Dune - Lens](https://dune.com/niftytable/Lens) - Lens dashboard in Dune.
-- [Dune - Lens and Hey](https://dune.com/gm365/lens) - Lens and Hey dashboard in Lens.
+- [Dune - Lens and Hey](https://dune.com/gm365/lens) - Lens and Hey dashboard in Dune.
 - [Lens Analytics by addresszero](https://github.com/addresszero/lensanalytics) - Lens Protocol Explorer 📈🌿
 - [Lens Analytics by chiragbadhe](https://github.com/chiragbadhe/lensanalytics) - Metrics On Lens Ecosystem.
 - [Leaderboards WithLens](https://github.com/m1guelpf/lens-leaderboard) - Most followed, active, collected shared profiles.
