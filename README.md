@@ -104,13 +104,13 @@
 - [Cultivator](https://github.com/maui-r/cultivator) - Explore the Lens Protocol Social Graph.
 - [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) - Encrypt messages for a Lens Profile or their Followers.
 - [Focalize](https://github.com/FocalizeApp/focalize-extension) - Quickly posting to Lens Protocol.
+- [Hey](https://github.com/heyverse/hey) - Decentralized and permissionless social media app.
 - [Inlens](https://github.com/0xJuancito/inlens) - Find your friends from Twitter.
 - [InterplanetaryFonts](https://github.com/interplanetaryfonts/interplanetaryfonts.xyz) - A decentralized NFT marketplace for creators and collectors of Fonts.
 - [Iris](https://github.com/irisxyz/iris) - The future of decentralized social.
 - [Lensdrop](https://github.com/jelilat/lensdrop) - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 - [Lenshare](https://github.com/Eversmile12/lenshare) - Bridge your tweets to LensProtocol.
 - [LensShareApp](https://github.com/nikomatt69/LensShareApp) - A decentralised video sharing social platform built on Lens Protocol.
-- [Hey](https://github.com/heyverse/hey) - Decentralized, and permissionless social media app.
 - [Lenstube](https://github.com/lenstube-xyz/lenstube) - Decentralized video-sharing social media platform.
 - [Lumiere](https://github.com/m1guelpf/lumiere) - Web3 video platform.
 - [Pingpad](https://github.com/pingpad-io/ping) - Minimalist microblogging platform.
