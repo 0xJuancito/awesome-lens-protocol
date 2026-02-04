@@ -63,7 +63,7 @@
 
 ### Momoka
 
-> Momoka refers to an Optimistic L3 - a hybrid by taking best from both - Optimistic Rollups and L3 technologies
+> Momoka refers to an Optimistic L3 - a hybrid taking the best from both Optimistic Rollups and L3 technologies.
 
 - [Momoka](https://github.com/lens-protocol/momoka) - Open source code showing how you can verify the DA claims are true.
   - [Node client](https://github.com/lens-protocol/momoka/tree/master/momoka-node)
