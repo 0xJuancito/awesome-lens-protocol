@@ -51,6 +51,7 @@
 - [ticklens](https://github.com/ArturVargas/ticklens.js) - A JavaScript SDK to create your own Ticket solution with Lens Protocol.
 - [use-lens](https://github.com/use-lens/use-lens) - Simplify usage of Lens API with graphql-codegen.
 - [worldcoin-on-lens](https://github.com/AdamSchinzel/worldcoin-on-lens) - Find out which people have World ID verified on Lens.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent wallet trust scoring. Verify agent wallet identity before Lens-gated interactions and micropayments. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Starter Kits
 - [daoleno/lenskit](https://github.com/daoleno/lenskit) - Starter kit by daoleno.
